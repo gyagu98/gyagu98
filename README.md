@@ -6,13 +6,13 @@ I’m a Ph.D. researcher using computational approaches to investigate biologica
 
 ## Selected work
 
-- [Velvet worm diet analysis](https://github.com/gyagu98/velvet_worm_diet_2) — original transcriptomic research and sequence-based screening of dietary candidates.
-- [Pincho distribution](https://github.com/gyagu98/Pincho_distribution) — work related to a lab de novo transcriptome assembler.
-- [Clinical ML sandbox](https://github.com/gyagu98/Clinical_ML_sandbox) — exploratory machine-learning work with clinical and gene-expression data.
-- [Bioinformatics tutorials](https://github.com/gyagu98/Bioinformatics_tutorials) — learning projects and method experiments.
-- [Intro to Bioinformatics](https://github.com/gyagu98/Intro_to_Bioinformatics) — coursework including sequence-analysis work on reptile hemoglobin.
+- [RNA-seq Nextflow pipeline](https://github.com/gyagu98/rna-seq-nextflow-pipeline) — reproducible DSL2 workflow scaffold with lightweight fixtures, container profiles, and CI.
+- [Velvet worm diet analysis](https://github.com/gyagu98/velvet_worm_diet_2) — exploratory sequence screening of diet-associated candidates in Andean velvet worms, with validation limitations documented.
+- [Pincho distribution](https://github.com/gyagu98/Pincho_distribution) — code and distribution utilities for a lab-developed de novo transcriptome assembler.
+- [Clinical ML sandbox](https://github.com/gyagu98/Clinical_ML_sandbox) — exploratory machine-learning notebooks using clinical and gene-expression data.
+- [Reptile hemoglobin analysis](https://github.com/gyagu98/Intro_to_Bioinformatics) — course project comparing rattlesnake hemoglobin sequences across altitude groups.
 
-Some repositories are works in progress or learning materials; I’m curating and improving them as I develop more reproducible, tested research software. I’ll add new flagship projects here as they become runnable and documented.
+Coursework and tutorial repositories remain public as a record of my learning; I’m progressively improving documentation and reproducibility. Research and software claims are limited to what each repository currently demonstrates.
 
 ## Current focus
 
